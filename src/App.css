@@ -1,0 +1,13 @@
+a h5 {
+  font-weight: 100;
+  padding: 10px
+}
+h6:hover,
+a h5:hover {
+  border-bottom: 2px solid white;
+}
+
+.box {
+  text-align: center;
+  margin: 10px;
+}
